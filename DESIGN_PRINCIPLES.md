@@ -26,7 +26,7 @@ When online conditions are poor, the system should favor local data and determin
 
 ---
 
-## Local Persistence Before Sync
+## Principle: Local Persistence Before Sync
 
 Data capture must succeed locally before any attempt to synchronize with a remote system.
 
